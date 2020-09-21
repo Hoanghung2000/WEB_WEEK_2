@@ -1,9 +1,9 @@
-title: MY BLOG HUNGUET
+title: MY BLOG
 author:
-  name: HungUET
-  email: xuanhung312000@gmail.com
+  name: HoangHung2000
+  email: hoanghung0902000@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  Đại học Quốc Gia Hà Nội - Trường Đại học Công Nghệ
+  VNU University of Engineering and Technology
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -14,8 +14,8 @@ minima:
 
   # generate social links in footer
   social_links:
-    facebook: Hung.VMF
-    github: hunguet312000
+    facebook: hoanghung942000
+    github: Hoanghung2000
     # devto: jekyll
     # dribbble: jekyll
     # flickr:   jekyll
